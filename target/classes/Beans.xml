@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.springframework.org/schema/beans">
+
+<bean class="com.reetu.Spring_UsingInterface.Circle" id="shp1"/>
+
+<bean class="com.reetu.Spring_UsingInterface.Rectangle" id="shp2"/>
+
+<bean class="com.reetu.Spring_UsingInterface.Triangle" id="shp3"/>
+
+</beans>
